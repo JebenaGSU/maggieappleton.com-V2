@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "d2a1865706ffbc0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3e94fa44f3d478",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79899a926046c27b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9bfc6f843411cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42c4fd4f81827f49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "305f95e15a8ac3c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "594c0cd990c3964d",
+    "type": "split",
+    "children": [
+      {
+        "id": "da42caa0b59ae197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "956ed351bcb95c03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0b3e94fa44f3d478",
+  "lastOpenFiles": [
+    "Java Island/Black in the Bay.md",
+    "Loose Stories/TV Markdown.md",
+    "Poems.Rippity.Raps/Mama's Gun.md",
+    "Poems.Rippity.Raps/Second Hand Smoke.md",
+    "Loose Stories/Untitled 3.md",
+    "Loose Stories/Untitled 2.md",
+    "Loose Stories/Untitled 1.md",
+    "Loose Stories/Untitled.md",
+    "Poems.Rippity.Raps/Camp Energy.md",
+    "Poems.Rippity.Raps/El Camino Freestyle.md"
+  ]
+}
