@@ -24,24 +24,15 @@ export default function Footer() {
             </button>
           </Link>
           <SocialMediaIcons>
-            <a rel="me" href="https://github.com/MaggieAppleton">
+            <a rel="me" href="">
               <GithubIcon />
             </a>
-            <a rel="me" href="https://uk.linkedin.com/in/maggieappleton">
+            <a rel="me" href="https://www.linkedin.com/in/aireus-r/">
               <LinkedInIcon />
-            </a>
-            <a rel="me" href="https://dribbble.com/mappleton">
-              <DribbbleIcon />
-            </a>
-            <a rel="me" href="https://twitter.com/Mappletons">
-              <TwitterIcon />
-            </a>
-            <a rel="me" href="https://indieweb.social/@maggie">
-              <MastodonIcon />
             </a>
           </SocialMediaIcons>
           <span className="copyright">
-            © {new Date().getFullYear()} Maggie Appleton
+            © {new Date().getFullYear()} Aireus Robinson
           </span>
         </RSSFeed>
         <SitemapList>

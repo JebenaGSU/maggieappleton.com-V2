@@ -15,7 +15,7 @@ export default function Header({ title, description, keywords, ogImage }) {
       title={title}
       description={description}
       openGraph={{
-        url: "https://maggieappleton.com",
+        url: "https://air.eus/",
         title: title,
         description: description,
         images: [
@@ -27,10 +27,10 @@ export default function Header({ title, description, keywords, ogImage }) {
             type: "image/png",
           },
         ],
-        site_name: "Maggie Appleton",
+        site_name: "Aireus",
       }}
       twitter={{
-        handle: "@mappletons",
+        handle: "",
         cardType: "summary_large_image",
       }}
     />
