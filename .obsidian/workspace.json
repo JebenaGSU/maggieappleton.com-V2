@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a82d29f88841b110",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,6 +66,14 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "42a907199988766c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -103,7 +122,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "42c4fd4f81827f49",
+  "active": "a82d29f88841b110",
   "lastOpenFiles": [
     "posts/projects/uxlondon2019.mdx",
     "posts/projects/testing-js.mdx",

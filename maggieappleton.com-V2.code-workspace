@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../Story-GPT4"
+		},
+		{
+			"path": "../GPT4-Projects"
 		}
 	],
 	"settings": {}
